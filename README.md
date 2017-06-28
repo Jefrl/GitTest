@@ -26,3 +26,8 @@ Gain new knowledge by reviewing old.
 * 4. commit 004 times to master -- gain new knowledge by
 
 ---我是分割线, 并提交到 master, 后面有大事要干---
+
+Jefrl: 
+
+gain new knowledge by reviewing old.--01
+...未完待续... git stash...干大事再回来...--mark
