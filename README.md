@@ -31,3 +31,5 @@ Jefrl:
 
 gain new knowledge by reviewing old.--01
 ...未完待续... git stash...干大事再回来...--mark
+
+git tag0.0.2
