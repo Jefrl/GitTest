@@ -10,3 +10,7 @@ Gain new knowledge by reviewing old.
 --- create a new branch that was named "dev" quick
 
 1. commit 001 times -- gain new knowledge by 
+
+--- master branch go on
+
+* 4. commit 004 times to master -- gain new knowledge by
