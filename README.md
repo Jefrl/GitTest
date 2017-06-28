@@ -26,3 +26,5 @@ Gain new knowledge by reviewing old.
 * 4. commit 004 times to master -- gain new knowledge by
 
 ---我是分割线, 并提交到 master, 后面有大事要干---
+
+5. Gain new konwledge by reviewing old.--- complete
