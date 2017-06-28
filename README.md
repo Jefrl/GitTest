@@ -15,7 +15,6 @@ Gain new knowledge by reviewing old.
 
 ---
 
-<<<<<<< HEAD
 --- create a new brach that was named "feature" quick
 
 1. commit 001 times to feature --gain new knowledge by reviewing
@@ -26,4 +25,4 @@ Gain new knowledge by reviewing old.
 
 * 4. commit 004 times to master -- gain new knowledge by
 
-
+---我是分割线, 并提交到 master, 后面有大事要干---
