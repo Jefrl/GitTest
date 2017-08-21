@@ -1,35 +1,22 @@
 # GitTest
 Gain new knowledge by reviewing old.
 
---- master branch
-
-* 1. commit 001 times to master -- gain
-* 2. commit 002 times to master -- gain new
-* 3. commit 003 times to master -- gain new knowledge (fix bug 1 times)
-
---- create a new branch that was named "dev" quick
-
-1. commit 001 times to dev -- gain new knowledge by 
-
---- merge dev branch, then delete dev branch. go on
-
----
-
---- create a new brach that was named "feature" quick
-
-1. commit 001 times to feature --gain new knowledge by reviewing
-
----
-
---- master branch go on
-
-* 4. commit 004 times to master -- gain new knowledge by
-
----我是分割线, 并提交到 master, 后面有大事要干---
-
-Jefrl: 
-
-gain new knowledge by reviewing old.--01
-...未完待续... git stash...干大事再回来...--mark
-
-git tag0.0.2
+rawValue: 原始的数值
+undeclared: 未申明的(反: 公然)
+involved: 卷入的, 涉及
+sort:   分类
+visibility: 可见度
+crosshair:  十字线
+previous:   前面的
+cursor:     光标
+display:    显示
+disappear:   消失
+border:      边界
+margin:     边缘
+pad:        衬垫
+general:     一般
+bind:       装订
+constraint:     约束
+perform:    执行
+but for:    倘若没有, 要不是
+dimension:   维度
