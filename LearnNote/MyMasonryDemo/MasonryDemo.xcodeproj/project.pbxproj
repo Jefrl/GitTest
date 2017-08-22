@@ -1,0 +1,498 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A54C11851F4BA86100643D10 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A54C11841F4BA86100643D10 /* main.m */; };
+		A54C11881F4BA86100643D10 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A54C11871F4BA86100643D10 /* AppDelegate.m */; };
+		A54C118B1F4BA86100643D10 /* HXLViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A54C118A1F4BA86100643D10 /* HXLViewController.m */; };
+		A54C118E1F4BA86100643D10 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A54C118C1F4BA86100643D10 /* Main.storyboard */; };
+		A54C11901F4BA86100643D10 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A54C118F1F4BA86100643D10 /* Assets.xcassets */; };
+		A54C11931F4BA86100643D10 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A54C11911F4BA86100643D10 /* LaunchScreen.storyboard */; };
+		A54C119D1F4BB3DE00643D10 /* HXLTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A54C119C1F4BB3DE00643D10 /* HXLTableViewController.m */; };
+		A54C11A01F4BB9AC00643D10 /* HXLBasicView.m in Sources */ = {isa = PBXBuildFile; fileRef = A54C119F1F4BB9AC00643D10 /* HXLBasicView.m */; };
+		A57D23791F4C2CF000E03986 /* HXLConstantsView.m in Sources */ = {isa = PBXBuildFile; fileRef = A57D23781F4C2CF000E03986 /* HXLConstantsView.m */; };
+		A57D237C1F4C2D0D00E03986 /* HXLSidesView.m in Sources */ = {isa = PBXBuildFile; fileRef = A57D237B1F4C2D0D00E03986 /* HXLSidesView.m */; };
+		A57D237F1F4C2D2700E03986 /* HXLAnimatedView.m in Sources */ = {isa = PBXBuildFile; fileRef = A57D237E1F4C2D2700E03986 /* HXLAnimatedView.m */; };
+		A57D23821F4C2D3200E03986 /* HXLDebuggingView.m in Sources */ = {isa = PBXBuildFile; fileRef = A57D23811F4C2D3200E03986 /* HXLDebuggingView.m */; };
+		A57D23851F4C2D3E00E03986 /* HXLLabelView.m in Sources */ = {isa = PBXBuildFile; fileRef = A57D23841F4C2D3E00E03986 /* HXLLabelView.m */; };
+		A57D23881F4C2D4800E03986 /* HXLUpdateView.m in Sources */ = {isa = PBXBuildFile; fileRef = A57D23871F4C2D4800E03986 /* HXLUpdateView.m */; };
+		A57D238B1F4C2D5200E03986 /* HXLRemakeView.m in Sources */ = {isa = PBXBuildFile; fileRef = A57D238A1F4C2D5200E03986 /* HXLRemakeView.m */; };
+		A57D238E1F4C2D5C00E03986 /* HXLScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = A57D238D1F4C2D5C00E03986 /* HXLScrollView.m */; };
+		A57D23911F4C2D6C00E03986 /* HXLArrayView.m in Sources */ = {isa = PBXBuildFile; fileRef = A57D23901F4C2D6C00E03986 /* HXLArrayView.m */; };
+		A57D23941F4C2D7B00E03986 /* HXLAttributeChainingView.m in Sources */ = {isa = PBXBuildFile; fileRef = A57D23931F4C2D7B00E03986 /* HXLAttributeChainingView.m */; };
+		A57D23971F4C2D8400E03986 /* HXLAspectFitView.m in Sources */ = {isa = PBXBuildFile; fileRef = A57D23961F4C2D8400E03986 /* HXLAspectFitView.m */; };
+		A57D239A1F4C2D8D00E03986 /* HXLMarginView.m in Sources */ = {isa = PBXBuildFile; fileRef = A57D23991F4C2D8D00E03986 /* HXLMarginView.m */; };
+		A57D239D1F4C2D9700E03986 /* HXLDistributeView.m in Sources */ = {isa = PBXBuildFile; fileRef = A57D239C1F4C2D9700E03986 /* HXLDistributeView.m */; };
+		AACD198189C44C59C6CDEFFA /* Pods_MasonryDemo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A55A0B988CFA687098839A7 /* Pods_MasonryDemo.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		5468B74B6FFFABB65FA42CB5 /* Pods-MasonryDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MasonryDemo.release.xcconfig"; path = "Pods/Target Support Files/Pods-MasonryDemo/Pods-MasonryDemo.release.xcconfig"; sourceTree = "<group>"; };
+		7A55A0B988CFA687098839A7 /* Pods_MasonryDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MasonryDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		889029277CA236FA1C01562C /* Pods-MasonryDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MasonryDemo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MasonryDemo/Pods-MasonryDemo.debug.xcconfig"; sourceTree = "<group>"; };
+		A54C11801F4BA86100643D10 /* MasonryDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MasonryDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A54C11841F4BA86100643D10 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		A54C11861F4BA86100643D10 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		A54C11871F4BA86100643D10 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		A54C11891F4BA86100643D10 /* HXLViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HXLViewController.h; sourceTree = "<group>"; };
+		A54C118A1F4BA86100643D10 /* HXLViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HXLViewController.m; sourceTree = "<group>"; };
+		A54C118D1F4BA86100643D10 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		A54C118F1F4BA86100643D10 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A54C11921F4BA86100643D10 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		A54C11941F4BA86100643D10 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A54C119B1F4BB3DE00643D10 /* HXLTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HXLTableViewController.h; sourceTree = "<group>"; };
+		A54C119C1F4BB3DE00643D10 /* HXLTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HXLTableViewController.m; sourceTree = "<group>"; };
+		A54C119E1F4BB9AC00643D10 /* HXLBasicView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HXLBasicView.h; sourceTree = "<group>"; };
+		A54C119F1F4BB9AC00643D10 /* HXLBasicView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HXLBasicView.m; sourceTree = "<group>"; };
+		A57D23761F4C147E00E03986 /* Masonry iOS Examples-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Masonry iOS Examples-Prefix.pch"; sourceTree = "<group>"; };
+		A57D23771F4C2CF000E03986 /* HXLConstantsView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HXLConstantsView.h; sourceTree = "<group>"; };
+		A57D23781F4C2CF000E03986 /* HXLConstantsView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HXLConstantsView.m; sourceTree = "<group>"; };
+		A57D237A1F4C2D0D00E03986 /* HXLSidesView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HXLSidesView.h; sourceTree = "<group>"; };
+		A57D237B1F4C2D0D00E03986 /* HXLSidesView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HXLSidesView.m; sourceTree = "<group>"; };
+		A57D237D1F4C2D2700E03986 /* HXLAnimatedView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HXLAnimatedView.h; sourceTree = "<group>"; };
+		A57D237E1F4C2D2700E03986 /* HXLAnimatedView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HXLAnimatedView.m; sourceTree = "<group>"; };
+		A57D23801F4C2D3200E03986 /* HXLDebuggingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HXLDebuggingView.h; sourceTree = "<group>"; };
+		A57D23811F4C2D3200E03986 /* HXLDebuggingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HXLDebuggingView.m; sourceTree = "<group>"; };
+		A57D23831F4C2D3E00E03986 /* HXLLabelView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HXLLabelView.h; sourceTree = "<group>"; };
+		A57D23841F4C2D3E00E03986 /* HXLLabelView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HXLLabelView.m; sourceTree = "<group>"; };
+		A57D23861F4C2D4800E03986 /* HXLUpdateView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HXLUpdateView.h; sourceTree = "<group>"; };
+		A57D23871F4C2D4800E03986 /* HXLUpdateView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HXLUpdateView.m; sourceTree = "<group>"; };
+		A57D23891F4C2D5200E03986 /* HXLRemakeView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HXLRemakeView.h; sourceTree = "<group>"; };
+		A57D238A1F4C2D5200E03986 /* HXLRemakeView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HXLRemakeView.m; sourceTree = "<group>"; };
+		A57D238C1F4C2D5C00E03986 /* HXLScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HXLScrollView.h; sourceTree = "<group>"; };
+		A57D238D1F4C2D5C00E03986 /* HXLScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HXLScrollView.m; sourceTree = "<group>"; };
+		A57D238F1F4C2D6C00E03986 /* HXLArrayView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HXLArrayView.h; sourceTree = "<group>"; };
+		A57D23901F4C2D6C00E03986 /* HXLArrayView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HXLArrayView.m; sourceTree = "<group>"; };
+		A57D23921F4C2D7B00E03986 /* HXLAttributeChainingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HXLAttributeChainingView.h; sourceTree = "<group>"; };
+		A57D23931F4C2D7B00E03986 /* HXLAttributeChainingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HXLAttributeChainingView.m; sourceTree = "<group>"; };
+		A57D23951F4C2D8400E03986 /* HXLAspectFitView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HXLAspectFitView.h; sourceTree = "<group>"; };
+		A57D23961F4C2D8400E03986 /* HXLAspectFitView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HXLAspectFitView.m; sourceTree = "<group>"; };
+		A57D23981F4C2D8D00E03986 /* HXLMarginView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HXLMarginView.h; sourceTree = "<group>"; };
+		A57D23991F4C2D8D00E03986 /* HXLMarginView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HXLMarginView.m; sourceTree = "<group>"; };
+		A57D239B1F4C2D9700E03986 /* HXLDistributeView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HXLDistributeView.h; sourceTree = "<group>"; };
+		A57D239C1F4C2D9700E03986 /* HXLDistributeView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HXLDistributeView.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A54C117D1F4BA86100643D10 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AACD198189C44C59C6CDEFFA /* Pods_MasonryDemo.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		88D8DF7B63A9203D6093C180 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				889029277CA236FA1C01562C /* Pods-MasonryDemo.debug.xcconfig */,
+				5468B74B6FFFABB65FA42CB5 /* Pods-MasonryDemo.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		A54C11771F4BA86100643D10 = {
+			isa = PBXGroup;
+			children = (
+				A54C11821F4BA86100643D10 /* MasonryDemo */,
+				A54C11811F4BA86100643D10 /* Products */,
+				88D8DF7B63A9203D6093C180 /* Pods */,
+				B75E428204FDD1C6AE33655B /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		A54C11811F4BA86100643D10 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A54C11801F4BA86100643D10 /* MasonryDemo.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A54C11821F4BA86100643D10 /* MasonryDemo */ = {
+			isa = PBXGroup;
+			children = (
+				A54C11861F4BA86100643D10 /* AppDelegate.h */,
+				A54C11871F4BA86100643D10 /* AppDelegate.m */,
+				A54C119B1F4BB3DE00643D10 /* HXLTableViewController.h */,
+				A54C119C1F4BB3DE00643D10 /* HXLTableViewController.m */,
+				A54C11891F4BA86100643D10 /* HXLViewController.h */,
+				A54C118A1F4BA86100643D10 /* HXLViewController.m */,
+				A54C119A1F4BB3BA00643D10 /* View */,
+				A54C118C1F4BA86100643D10 /* Main.storyboard */,
+				A54C118F1F4BA86100643D10 /* Assets.xcassets */,
+				A54C11911F4BA86100643D10 /* LaunchScreen.storyboard */,
+				A54C11941F4BA86100643D10 /* Info.plist */,
+				A54C11831F4BA86100643D10 /* Supporting Files */,
+			);
+			path = MasonryDemo;
+			sourceTree = "<group>";
+		};
+		A54C11831F4BA86100643D10 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				A54C11841F4BA86100643D10 /* main.m */,
+				A57D23761F4C147E00E03986 /* Masonry iOS Examples-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		A54C119A1F4BB3BA00643D10 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				A54C119E1F4BB9AC00643D10 /* HXLBasicView.h */,
+				A54C119F1F4BB9AC00643D10 /* HXLBasicView.m */,
+				A57D23771F4C2CF000E03986 /* HXLConstantsView.h */,
+				A57D23781F4C2CF000E03986 /* HXLConstantsView.m */,
+				A57D237A1F4C2D0D00E03986 /* HXLSidesView.h */,
+				A57D237B1F4C2D0D00E03986 /* HXLSidesView.m */,
+				A57D237D1F4C2D2700E03986 /* HXLAnimatedView.h */,
+				A57D237E1F4C2D2700E03986 /* HXLAnimatedView.m */,
+				A57D23801F4C2D3200E03986 /* HXLDebuggingView.h */,
+				A57D23811F4C2D3200E03986 /* HXLDebuggingView.m */,
+				A57D23831F4C2D3E00E03986 /* HXLLabelView.h */,
+				A57D23841F4C2D3E00E03986 /* HXLLabelView.m */,
+				A57D23861F4C2D4800E03986 /* HXLUpdateView.h */,
+				A57D23871F4C2D4800E03986 /* HXLUpdateView.m */,
+				A57D23891F4C2D5200E03986 /* HXLRemakeView.h */,
+				A57D238A1F4C2D5200E03986 /* HXLRemakeView.m */,
+				A57D238C1F4C2D5C00E03986 /* HXLScrollView.h */,
+				A57D238D1F4C2D5C00E03986 /* HXLScrollView.m */,
+				A57D238F1F4C2D6C00E03986 /* HXLArrayView.h */,
+				A57D23901F4C2D6C00E03986 /* HXLArrayView.m */,
+				A57D23921F4C2D7B00E03986 /* HXLAttributeChainingView.h */,
+				A57D23931F4C2D7B00E03986 /* HXLAttributeChainingView.m */,
+				A57D23951F4C2D8400E03986 /* HXLAspectFitView.h */,
+				A57D23961F4C2D8400E03986 /* HXLAspectFitView.m */,
+				A57D23981F4C2D8D00E03986 /* HXLMarginView.h */,
+				A57D23991F4C2D8D00E03986 /* HXLMarginView.m */,
+				A57D239B1F4C2D9700E03986 /* HXLDistributeView.h */,
+				A57D239C1F4C2D9700E03986 /* HXLDistributeView.m */,
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		B75E428204FDD1C6AE33655B /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				7A55A0B988CFA687098839A7 /* Pods_MasonryDemo.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A54C117F1F4BA86100643D10 /* MasonryDemo */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A54C11971F4BA86100643D10 /* Build configuration list for PBXNativeTarget "MasonryDemo" */;
+			buildPhases = (
+				DFAC5D7C7552BE6EC5EA43F1 /* [CP] Check Pods Manifest.lock */,
+				A54C117C1F4BA86100643D10 /* Sources */,
+				A54C117D1F4BA86100643D10 /* Frameworks */,
+				A54C117E1F4BA86100643D10 /* Resources */,
+				568051192A664F92DB94A82A /* [CP] Embed Pods Frameworks */,
+				6A1AF7F56546AFBDEB947F19 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MasonryDemo;
+			productName = MasonryDemo;
+			productReference = A54C11801F4BA86100643D10 /* MasonryDemo.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A54C11781F4BA86100643D10 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = Jefrl;
+				TargetAttributes = {
+					A54C117F1F4BA86100643D10 = {
+						CreatedOnToolsVersion = 8.3.3;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = A54C117B1F4BA86100643D10 /* Build configuration list for PBXProject "MasonryDemo" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A54C11771F4BA86100643D10;
+			productRefGroup = A54C11811F4BA86100643D10 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A54C117F1F4BA86100643D10 /* MasonryDemo */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A54C117E1F4BA86100643D10 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A54C11931F4BA86100643D10 /* LaunchScreen.storyboard in Resources */,
+				A54C11901F4BA86100643D10 /* Assets.xcassets in Resources */,
+				A54C118E1F4BA86100643D10 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		568051192A664F92DB94A82A /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MasonryDemo/Pods-MasonryDemo-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		6A1AF7F56546AFBDEB947F19 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MasonryDemo/Pods-MasonryDemo-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DFAC5D7C7552BE6EC5EA43F1 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A54C117C1F4BA86100643D10 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A54C11A01F4BB9AC00643D10 /* HXLBasicView.m in Sources */,
+				A54C118B1F4BA86100643D10 /* HXLViewController.m in Sources */,
+				A57D238B1F4C2D5200E03986 /* HXLRemakeView.m in Sources */,
+				A57D23821F4C2D3200E03986 /* HXLDebuggingView.m in Sources */,
+				A54C11881F4BA86100643D10 /* AppDelegate.m in Sources */,
+				A57D237C1F4C2D0D00E03986 /* HXLSidesView.m in Sources */,
+				A54C119D1F4BB3DE00643D10 /* HXLTableViewController.m in Sources */,
+				A57D23971F4C2D8400E03986 /* HXLAspectFitView.m in Sources */,
+				A57D239D1F4C2D9700E03986 /* HXLDistributeView.m in Sources */,
+				A57D238E1F4C2D5C00E03986 /* HXLScrollView.m in Sources */,
+				A57D23851F4C2D3E00E03986 /* HXLLabelView.m in Sources */,
+				A57D23881F4C2D4800E03986 /* HXLUpdateView.m in Sources */,
+				A54C11851F4BA86100643D10 /* main.m in Sources */,
+				A57D23941F4C2D7B00E03986 /* HXLAttributeChainingView.m in Sources */,
+				A57D237F1F4C2D2700E03986 /* HXLAnimatedView.m in Sources */,
+				A57D239A1F4C2D8D00E03986 /* HXLMarginView.m in Sources */,
+				A57D23791F4C2CF000E03986 /* HXLConstantsView.m in Sources */,
+				A57D23911F4C2D6C00E03986 /* HXLArrayView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		A54C118C1F4BA86100643D10 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A54C118D1F4BA86100643D10 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		A54C11911F4BA86100643D10 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A54C11921F4BA86100643D10 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		A54C11951F4BA86100643D10 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		A54C11961F4BA86100643D10 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A54C11981F4BA86100643D10 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 889029277CA236FA1C01562C /* Pods-MasonryDemo.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MasonryDemo/Masonry iOS Examples-Prefix.pch";
+				INFOPLIST_FILE = MasonryDemo/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = hxl33520.MasonryDemo;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		A54C11991F4BA86100643D10 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5468B74B6FFFABB65FA42CB5 /* Pods-MasonryDemo.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MasonryDemo/Masonry iOS Examples-Prefix.pch";
+				INFOPLIST_FILE = MasonryDemo/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = hxl33520.MasonryDemo;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A54C117B1F4BA86100643D10 /* Build configuration list for PBXProject "MasonryDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A54C11951F4BA86100643D10 /* Debug */,
+				A54C11961F4BA86100643D10 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A54C11971F4BA86100643D10 /* Build configuration list for PBXNativeTarget "MasonryDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A54C11981F4BA86100643D10 /* Debug */,
+				A54C11991F4BA86100643D10 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A54C11781F4BA86100643D10 /* Project object */;
+}
