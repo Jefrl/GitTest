@@ -40,8 +40,9 @@ static NSString * const reuseIdentifier = @"cell";
         NSArray *array  = [NSArray array];
         
         array = @[
-                  [[HXLViewController alloc] initWithViewClass:HXLBasicView.class Title:@"View  的通用布局"],
-                  [[HXLViewController alloc] initWithViewClass:[HXLConstantsView class] Title:@"View 的常量布局"],
+                  [[HXLViewController alloc] initWithViewClass:HXLBasicView.class Title:@"Constraints  的通用布局"],
+                  [[HXLViewController alloc] initWithViewClass:[HXLConstantsView class] Title:@"Constraints 的常量布局"],
+                  [[HXLViewController alloc] initWithViewClass:[HXLUpdateView class] Title:@"Constraints update"],
                   [[HXLViewController alloc] initWithViewClass:[HXLSidesView class] Title:@"sides"],
                   [[HXLViewController alloc] initWithViewClass:[HXLAnimatedView class] Title:@"animated"],
                   [[HXLViewController alloc] initWithViewClass:[HXLDebuggingView class] Title:@"debug"]

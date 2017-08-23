@@ -60,5 +60,19 @@ but for     倘若不是, 要不是
 dimension    维
 exception    例外
 
+--
+
+thumb     批准
+addition    附加
+trigger      触发
+manually     手动
+rarely       很少的, 罕有的
+layout       页面布局
+composite    混合成的, 组成的
+according        根据
+prioritize       排序, vt. 把...区分优先次序
+reveal       显示, 揭露
+retrieve     寻找 (恢复, )
+
 
 

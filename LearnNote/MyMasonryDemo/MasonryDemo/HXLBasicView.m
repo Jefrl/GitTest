@@ -51,7 +51,7 @@
         make.right.equalTo(redView.left).offset(-padding);
         
         make.width.equalTo(redView.width);
-        make.height.equalTo(redView.height);
+        make.height.equalTo(redView);
         make.height.equalTo(blueView.height);
     }];
     

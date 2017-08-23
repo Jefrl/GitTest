@@ -1,8 +1,8 @@
 //
 //  AppDelegate.m
-//  MasonryDemo
+//  Bounds
 //
-//  Created by Jefrl on 2017/8/22.
+//  Created by Jefrl on 2017/8/23.
 //  Copyright © 2017年 Jefrl. All rights reserved.
 //
 
@@ -17,7 +17,6 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
-    self.window.backgroundColor = [UIColor whiteColor];
     return YES;
 }
 

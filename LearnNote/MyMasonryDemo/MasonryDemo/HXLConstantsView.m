@@ -39,8 +39,6 @@
     UIView *redView = arrayM[2];
     redView.backgroundColor = [UIColor redColor];
     
-    
-    NSInteger padding = 10;
     UIView *superView = self;
     // 开始 AutoLayout 布局
     [greenView makeConstraints:^(MASConstraintMaker *make) {
