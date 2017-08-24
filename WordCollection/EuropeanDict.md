@@ -74,5 +74,18 @@ prioritize       排序, vt. 把...区分优先次序
 reveal       显示, 揭露
 retrieve     寻找 (恢复, )
 
-
+-- 
+generate
+attach
+semantic
+console
+inverte     
+inset
+particular
+approach
+hue
+saturation
+brightness
+toggle
+elegant
 
