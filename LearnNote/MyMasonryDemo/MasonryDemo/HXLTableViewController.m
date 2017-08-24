@@ -40,13 +40,20 @@ static NSString * const reuseIdentifier = @"cell";
         NSArray *array  = [NSArray array];
         
         array = @[
-                  [[HXLViewController alloc] initWithViewClass:HXLBasicView.class Title:@"Constraints  的通用布局"],
-                  [[HXLViewController alloc] initWithViewClass:[HXLConstantsView class] Title:@"Constraints 的常量布局"],
-                  [[HXLViewController alloc] initWithViewClass:[HXLUpdateView class] Title:@"Constraints update"],
-                  [[HXLViewController alloc] initWithViewClass:[HXLSidesView class] Title:@"sides"],
-                  [[HXLViewController alloc] initWithViewClass:[HXLAnimatedView class] Title:@"animated"],
-                  [[HXLViewController alloc] initWithViewClass:[HXLDebuggingView class] Title:@"debug"]
-                  
+                  [[HXLViewController alloc] initWithViewClass:HXLBasicView.class Title:@"Constraints  Basic"],
+                  [[HXLViewController alloc] initWithViewClass:[HXLUpdateView class] Title:@"Constraints Update"],
+                  [[HXLViewController alloc] initWithViewClass:[HXLRemakeView class] Title:@"Constraints Remake"],
+                  [[HXLViewController alloc] initWithViewClass:[HXLConstantsView class] Title:@"Constraints Constants"],
+                  [[HXLViewController alloc] initWithViewClass:[HXLSidesView class] Title:@"Sides Constants"],
+                  [[HXLViewController alloc] initWithViewClass:[HXLAspectFitView class] Title:@"AspectFit Constants"],
+                  [[HXLViewController alloc] initWithViewClass:[HXLAnimatedView class] Title:@"Animated Constants"],
+                  [[HXLViewController alloc] initWithViewClass:[HXLDebuggingView class] Title:@"debug"],
+                  [[HXLViewController alloc] initWithViewClass:[HXLLabelView class] Title:@"Label Constants"],
+                  [[HXLViewController alloc] initWithViewClass:[HXLScrollView class] Title:@"ScrollView Constants"],
+                  [[HXLViewController alloc] initWithViewClass:[HXLArrayView class] Title:@"ArrayView Constants"],
+                  [[HXLViewController alloc] initWithViewClass:[HXLAttributeChainingView class] Title:@"AttributeChainingView Constants"],
+                  [[HXLViewController alloc] initWithViewClass:[HXLMarginView class] Title:@"MarginView Constants"],
+                  [[HXLViewController alloc] initWithViewClass:[HXLDistributeView class] Title:@"DistributeView Constants"],
                   
                   ];
         _exampleControllers = array;
