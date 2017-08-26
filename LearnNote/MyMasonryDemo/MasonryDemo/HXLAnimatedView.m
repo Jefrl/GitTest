@@ -100,7 +100,7 @@
 - (void)didMoveToWindow
 {
 //    if (self.window) {
-//        [self dispalyAnimation:NO];
+        [self dispalyAnimation:NO];
 //    }
 }
 
@@ -116,6 +116,7 @@
     }
     
     [UIView animateWithDuration:1 animations:^{
+        // 约束更改后, 主动刷新布局
         [self layoutIfNeeded];
     } completion:^(BOOL finished) {
         [self dispalyAnimation:!invertedInsets];
