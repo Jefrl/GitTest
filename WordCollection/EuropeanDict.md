@@ -21,7 +21,9 @@ perform:    执行
 but for:    倘若没有, 要不是
 dimension:   维度
 
-0822
+--
+`0822`
+
 the sides of a square -- 边, 侧
 pading      垫充
 unpacked    解包的, 打开的
@@ -37,7 +39,7 @@ interface   接口
 builder     建立者
 Canvas      画布
   
----
+--
 
 previous    上一个
 visibility  可见度, 能见度
@@ -75,6 +77,7 @@ reveal       显示, 揭露
 retrieve     寻找 (恢复, )
 
 -- 
+
 generate
 attach
 semantic
@@ -89,3 +92,15 @@ brightness
 toggle
 elegant
 
+-- 
+`0828`
+
+elementary -- inter -- imagine -- 
+jade -- lotus -- calculator -- 
+execution -- relation -- redefinition -- 
+syntax -- suger -- alias -- 
+distribute -- pairs -- unwanted -- 
+recover -- chain -- increment -- 
+peculiar -- passenger -- stupid -- 
+quite -- quarter -- generate -- 
+attach -- semantic
