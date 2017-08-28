@@ -100,4 +100,86 @@ pan -- pants -- panda -- past -- pass -- passenger
 park -- pardon -- part -- party -- partner
 pet -- pen -- pencil -- pepper -- peace -- peach 
 period -- peculiar -- percent -- perhaps
+person -- perfect -- pig -- pink -- pick -- piano -- pillow
+picnic -- picture -- plane -- place
+play -- player -- playground -- plan -- plant -- planet
+pleasure -- pleasant -- potato -- position
+polite -- police -- pollut -- pollution
+pocket -- positive -- possible -- popular -- popcorn
+pray -- praise -- proud -- practice -- program -- present -- pressure -- precious -- president 
+pretty -- prepare -- price -- prize -- private
+protect -- provide -- produce -- proffessor -- project
+promise -- progress -- problem -- probably
+put -- pull -- push -- public -- punish -- puppy
+
+###### hl
+hair -- haircut -- hat -- half -- have -- habit 
+ham -- hamburger -- hand -- handle -- handsome 
+happy -- happen -- heart -- height -- 
+head -- health -- heavy -- headache -- hero -- here 
+hit -- hill -- history -- hire -- hide -- hike 
+hot -- hobby -- holiday -- hospital -- horse -- horrible
+hold -- hope -- hotel -- home -- homesick -- homework 
+house -- housewife -- housework -- how -- however
+humble -- husband -- hunt -- hunter -- hundred
+hunger -- hungry -- humid -- human -- humor 
+hurt -- hurry -- honest -- honesty 
+if -- is -- ill -- ignore -- imagine -- improve -- impossible -- important 
+income -- include -- increase -- influence -- information
+inside -- insect -- instant -- into -- introduce -- intelligent
+interrupt -- interested -- interesting -- internet -- interview -- international 
+invite -- invent -- invitation -- iron -- idea -- island 
+ice -- icecream
+jam -- jazz -- jacket -- January -- job -- jog
+june -- july -- juice -- junior -- just -- jump -- judge
+love -- lovely -- lucky -- lunch
+kill -- kilogram -- kite -- kind 
+know -- knife -- knowledge 
+lake -- lady -- lazy -- late -- later -- latest
+last -- laugh -- language -- law -- lawyer
+leg -- left -- lend -- level -- lemon -- less -- lesson 
+least -- leave -- lead -- leader
+lip -- lift -- link -- little -- limit -- list -- listen 
+live -- living -- lie -- life -- like -- line -- light -- library
+local -- lonely -- lose -- loser
+
+--
+
+###### eg
+eight -- eighty -- eighteen -- egg -- error -- effort -- education
+else -- elder -- elephant -- elementary -- 
+empty -- emphasis -- end -- enter -- enemy
+energy -- energetic -- every -- everyone -- everybody -- everything -- everywhere
+exit -- extra -- exercise -- excellent -- enough -- especially -- email -- equal -- eat -- each -- easy 
+east -- easter -- eve -- evil -- even -- evening 
+event -- eraser -- english -- ear -- earring
+elect -- electric -- eleven -- employ -- emotion -- embarrass
+enjoy -- environment -- except -- excited -- exciting
+expect -- explain -- express -- expensive -- experience -- exam -- example -- 
+earn -- earth -- early
+face -- famous -- favorite -- fat -- fast -- family -- fashion
+fact -- factory -- far -- farm -- father 
+fall -- false -- festiver -- february
+fee -- feed -- feel -- fit -- fix -- finger -- finish 
+fifth -- fifty -- fifteen -- fill -- film -- five -- fire -- fight 
+fine -- find -- finally 
+fly -- flight -- floor -- flower -- flag -- flashlight 
+fog -- foggy -- follow -- for -- forty -- forward 
+forest -- foreign -- foreigner -- form -- formal -- former
+four -- fourth -- foureen -- foot -- football
+food -- fool -- foolish -- forget -- forgive
+fruit -- front -- friday -- fresh -- french
+free -- freedom -- freezing -- friend -- friendly -- friendship
+frog -- from -- fun -- funny 
+gate -- game -- gas -- gather 
+garden -- garbage -- gift -- give 
+girl -- girlfriend -- glad -- glasses
+god -- golf -- goat -- goal 
+great -- grow -- group -- ground  -- grade -- grape
+grandson -- grandfather -- grandmother -- greet -- green
+guest -- guess -- general -- generous
+gentle -- gentlemen -- gene -- genius
+
+ 
+
 
