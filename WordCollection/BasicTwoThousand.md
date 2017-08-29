@@ -180,6 +180,39 @@ grandson -- grandfather -- grandmother -- greet -- green
 guest -- guess -- general -- generous
 gentle -- gentlemen -- gene -- genius
 
+--
+cake -- case -- cage -- care -- careful -- careless 
+cat -- cash -- castle -- calendar -- camp -- campus
+candy -- cancel -- cancer -- candle -- carry -- carrot 
+car -- card -- calm -- cartoon -- call -- cause 
+club -- clerk -- clean -- cloud -- class 
+close -- clothes -- clock -- closet 
+collect -- correct -- command -- compare -- computer -- complain
+control -- concern -- confuse -- continue -- copy -- contton
+comic -- common -- comment -- coin -- cost -- coffee
+corn -- corner -- coke -- cold -- comb
+coat -- coast  -- coach -- cook -- cookie -- cookbook
+come -- company -- couple -- cousin -- country -- count -- couch -- cow -- cowboy
+cry -- cruel -- cross -- crime -- cream -- credit -- cup -- cut -- culture
+cure -- curious -- center -- central -- century -- centimeter
+city -- cigar -- cigarette -- circle -- circular 
+chair -- church -- choice -- choose -- chase -- change
+chance -- channel -- check -- chess 
+cheap -- cheat -- chin -- chicken
+china -- chinese -- child -- childish -- childlike -- childhood
+date -- data -- database -- danger -- dangerous 
+dad -- dance -- damage -- dark -- darling
+desk -- desert -- dentist -- decorate -- deas -- dead -- death
+deed -- deep -- deem -- degree -- develop -- describe -- decrease 
+decide -- decision -- December -- deliver -- delicious 
+depend -- department -- design -- desire -- desert -- dessert -- divide -- division -- direct -- director -- direction 
+dig -- dish -- dizzy -- diligent -- diplomat -- dictionary -- difficult -- different -- discuss -- discover -- disappear -- dishonest -- distant -- distance
+dirt -- dirty -- die -- diet -- dial -- diary -- dot -- dodge -- doctor
+doll -- dollar -- dolphin -- dog -- doggie -- dogged
+door -- doorbell -- doorman -- down -- downtown -- downstair
+drop -- drink -- dream -- drama -- dragon -- draw -- drawer
+drive -- driver -- drum -- drug -- drugstore
+dry -- dryer -- dumb -- dumpling -- duty -- during
  
 
 
