@@ -181,6 +181,8 @@ guest -- guess -- general -- generous
 gentle -- gentlemen -- gene -- genius
 
 --
+cd
+
 cake -- case -- cage -- care -- careful -- careless 
 cat -- cash -- castle -- calendar -- camp -- campus
 candy -- cancel -- cancer -- candle -- carry -- carrot 
@@ -214,5 +216,40 @@ drop -- drink -- dream -- drama -- dragon -- draw -- drawer
 drive -- driver -- drum -- drug -- drugstore
 dry -- dryer -- dumb -- dumpling -- duty -- during
  
+***
+ab 
+
+age -- able -- April -- air -- airport -- airplane
+any -- anyone -- anything -- anywhere -- ask -- apple -- absent -- ambulance 
+actually -- accident -- act -- active -- activity
+after -- afternoon -- ant -- and -- animal -- answer
+angry -- anger -- ankle -- away -- ahead -- another -- 
+about -- above -- abroad -- accept -- across 
+adult -- address -- advice -- admire 
+affect -- afraid -- ago -- agree -- again 
+alive -- allow -- aloud -- alone -- appear -- apologize
+arrive -- around -- arrange -- attack -- attention 
+avoid -- available -- arm -- army -- art -- argue 
+all -- also -- always -- almost -- already -- although
+baby -- bakery -- base -- basic -- baseball
+bat -- bag -- bank -- back -- backward 
+basket -- basketball -- bath -- bathroom
+balloon -- banana -- bear -- bearing
+bed -- bedroom -- below -- belong 
+beat -- bean -- beach -- bee -- beef 
+begin -- before -- believe -- between -- become -- because
+beside -- besides -- beauty -- beautiful
+big -- bill -- bird -- birthday 
+bite -- bicycle -- biology -- blue -- blind -- blood 
+black -- blackboard -- box -- body -- bomb -- bother -- borrow 
+bottle -- bottom -- boy -- boss -- born 
+bone -- both -- bored --- boring 
+bow -- bowl -- bowling -- book -- bookcase -- bookstore
+break -- brave -- bright -- brown -- brother -- bread -- breakfast 
+bring -- bridge -- brush -- brunch 
+build -- busy -- business -- businessman -- bug -- bus -- buffet -- bucket 
+but -- button -- butter -- butterfly 
+buy -- buyer -- burn -- burst -- burger
+
 
 
