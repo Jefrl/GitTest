@@ -17,8 +17,8 @@
         self.result += prameters;
         return self;
     };
-    
     return tempBlock;
 }
+
 
 @end
