@@ -34,6 +34,7 @@
 {
     self.view = [[self.viewClass alloc] initWithFrame:[UIScreen mainScreen].bounds];
     self.view.backgroundColor = [UIColor whiteColor];
+    
 }
 
 #ifdef __IPHONE_7_0 // 如果是 iOS 7 以上的版本依然, 从导航栏下部分开始布局
@@ -44,3 +45,8 @@
 
 
 @end
+
+
+
+
+

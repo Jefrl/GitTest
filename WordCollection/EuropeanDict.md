@@ -115,4 +115,8 @@ invalid -- general -- elementary
 
 ---
 `0919`
-fox -- 
+fox -- forever -- junior -- achieve -- finder -- born -- burger -- burst -- burn -- bridge -- brush -- bowling -- bowl -- bow -- bone -- bottom -- bottle -- blind -- blood -- besides -- beside -- bee -- ankle -- typo
+
+---
+`0920`
+leap -- monumental -- giant -- formed -- generation -- paid(pay 的过去式 支付, 或 adj. 付清的) -- associate

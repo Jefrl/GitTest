@@ -55,7 +55,7 @@
         make.height.equalTo(blueView.height);
     }];
     
-    // 写的形式尽量保持一种, 有时会框架报错
+    // 写的形式尽量保持同一种
     [redView makeConstraints:^(MASConstraintMaker *make) {
         make.top.equalTo(superView.top).offset(padding);//also allow with mas_ and with
         make.left.equalTo(greenView.right).offset(padding);

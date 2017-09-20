@@ -10,6 +10,10 @@
 
 @implementation HXLDistributeView
 
+- (void)extracted:(NSMutableArray *)arr {
+    [arr mas_distributeViewsAlongAxis:MASAxisTypeHorizontal withFixedSpacing:60 leadSpacing:15 tailSpacing:5];
+}
+
 - (id)initWithFrame:(CGRect)frame
 {
     self = [super initWithFrame:frame];
@@ -31,7 +35,7 @@
      3. leadSpacing:15 
      4. tailSpacing:5
      */
-    [arr mas_distributeViewsAlongAxis:MASAxisTypeHorizontal withFixedSpacing:60 leadSpacing:15 tailSpacing:5];
+    [self extracted:arr];
     [arr makeConstraints:^(MASConstraintMaker *make) {
         make.top.equalTo(@60);
         make.height.equalTo(@60);

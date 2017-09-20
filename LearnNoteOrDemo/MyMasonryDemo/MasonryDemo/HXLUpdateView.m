@@ -39,7 +39,6 @@
     [button addTarget:self action:@selector(didTapGrowButton:) forControlEvents:UIControlEventTouchUpInside];
     
     self.buttonSize = CGSizeMake(100, 100);
-    
     [self addSubview:button];
     self.growButton = button;
 }
@@ -48,14 +47,15 @@
 {
     // call updateConstraints^
     [self.growButton updateConstraints:^(MASConstraintMaker *make) {
-        make.width.equalTo(self.buttonSize.width).priorityLow();
-        make.height.equalTo(self.buttonSize.height).priorityLow();
+        make.width.equalTo(self.buttonSize.width);//.priorityLow();
+        make.height.equalTo(self.buttonSize.height);//.priorityLow();
         make.center.equalTo(self);
         
-        make.width.lessThanOrEqualTo(self);
-        make.height.lessThanOrEqualTo(self);
+//        make.width.lessThanOrEqualTo(self);
+//        make.height.lessThanOrEqualTo(self);
     }];
     
+    NSLog(@"%@", NSStringFromCGRect(self.growButton.frame));
     // 注意了, 苹果要求
     [super updateConstraints];
 }

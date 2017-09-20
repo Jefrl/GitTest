@@ -10,6 +10,7 @@
 
 @interface HXLViewController : UIViewController
 - (instancetype)initWithViewClass:(Class)viewClass Title:(NSString *)title;
+/** <#name#> */
 
 @end
 
