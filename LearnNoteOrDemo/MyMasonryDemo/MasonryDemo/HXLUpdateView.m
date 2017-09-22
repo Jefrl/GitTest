@@ -47,12 +47,12 @@
 {
     // call updateConstraints^
     [self.growButton updateConstraints:^(MASConstraintMaker *make) {
-        make.width.equalTo(self.buttonSize.width);//.priorityLow();
+        make.width.equalTo(self.buttonSize.width);//.priorityLow(); 已经失效
         make.height.equalTo(self.buttonSize.height);//.priorityLow();
         make.center.equalTo(self);
         
-//        make.width.lessThanOrEqualTo(self);
-//        make.height.lessThanOrEqualTo(self);
+        make.width.lessThanOrEqualTo(self);
+        make.height.lessThanOrEqualTo(self);
     }];
     
     NSLog(@"%@", NSStringFromCGRect(self.growButton.frame));
