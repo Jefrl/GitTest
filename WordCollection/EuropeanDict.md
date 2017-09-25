@@ -1,3 +1,4 @@
+***[show in finder](./)***
 # GitTest
 Gain new knowledge by reviewing old.
 
@@ -120,3 +121,7 @@ fox -- forever -- junior -- achieve -- finder -- born -- burger -- burst -- burn
 ---
 `0920`
 leap -- monumental -- giant -- formed -- generation -- paid(pay 的过去式 支付, 或 adj. 付清的) -- associate
+
+---
+`0924`
+venture -- capital -- spam -- initializer -- thumbnail -- clarity -- convention -- genius -- valid -- Fot(信托投资基金) -- ubiquitous -- transfer -- MyFonts -- notably -- legit -- charge -- commercial -- exactly -- customer -- responsible -- flop -- lambda -- ternary -- golden -- craftsmanship -- zen -- driven -- snap -- grail -- efficient -- pursue -- combination -- ingredient -- holy -- deaf -- signature -- relocate -- incorrect -- precede -- summary -- comment -- format -- serf -- demonstrate -- opening -- accessor -- frat -- singleton -- remix -- aborting -- unpacking -- trail -- trailing
